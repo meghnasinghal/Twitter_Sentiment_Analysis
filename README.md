@@ -61,3 +61,13 @@ https://www.elastic.co/guide/en/kibana/current/getting-started.html
 What to submit:
 1. Python/Scala code
 2. Screenshots of your visualization charts
+
+
+
+CONFIGURATION:
+kafka_2.13-2.5.0
+stanford-corenlp-4.1.0
+elasticsearch-7.6.2
+kibana-7.6.2-darwin-x86_64
+
+
